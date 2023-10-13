@@ -1,0 +1,3 @@
+[2023-10-12 23:26:12,294] 96 werkzeug - WARNING -  * Debugger is active!
+[2023-10-12 23:26:12,310] 96 werkzeug - INFO -  * Debugger PIN: 997-799-537
+[2023-10-12 23:26:23,069] 96 werkzeug - INFO -  * Detected change in 'f:\\etl\\project\\ml_project_pipeline\\ml_pipeline\\income_prediction\\app.py', reloading

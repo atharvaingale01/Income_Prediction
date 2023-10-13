@@ -1,0 +1,7 @@
+[2023-10-12 23:26:27,590] 96 werkzeug - WARNING -  * Debugger is active!
+[2023-10-12 23:26:27,610] 96 werkzeug - INFO -  * Debugger PIN: 997-799-537
+[2023-10-12 23:26:32,011] 14 root - INFO - error occured in python script name [F:\ETL\Project\ML_PROJECT_PIPELINE\ML_pipeline\Income_Prediction\app.py] line number [11] error message [we are testing our custom file]
+[2023-10-12 23:26:32,011] 96 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2023 23:26:32] "GET / HTTP/1.1" 200 -
+[2023-10-12 23:26:32,628] 14 root - INFO - error occured in python script name [F:\ETL\Project\ML_PROJECT_PIPELINE\ML_pipeline\Income_Prediction\app.py] line number [11] error message [we are testing our custom file]
+[2023-10-12 23:26:32,628] 96 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2023 23:26:32] "GET / HTTP/1.1" 200 -
+[2023-10-12 23:27:33,247] 96 werkzeug - INFO -  * Detected change in 'F:\\ETL\\Project\\ML_PROJECT_PIPELINE\\ML_pipeline\\Income_Prediction\\src\\exception.py', reloading

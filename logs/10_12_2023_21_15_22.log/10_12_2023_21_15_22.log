@@ -1,0 +1,7 @@
+[2023-10-12 21:15:22,083] 96 werkzeug - WARNING -  * Debugger is active!
+[2023-10-12 21:15:22,097] 96 werkzeug - INFO -  * Debugger PIN: 997-799-537
+[2023-10-12 21:15:37,772] 8 root - INFO - We are testing logging
+[2023-10-12 21:15:37,773] 96 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2023 21:15:37] "GET / HTTP/1.1" 200 -
+[2023-10-12 21:15:38,531] 96 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2023 21:15:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-10-12 21:15:38,661] 8 root - INFO - We are testing logging
+[2023-10-12 21:15:38,661] 96 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2023 21:15:38] "GET / HTTP/1.1" 200 -

@@ -1,0 +1,7 @@
+[2023-10-12 23:24:42,433] 96 werkzeug - WARNING -  * Debugger is active!
+[2023-10-12 23:24:42,450] 96 werkzeug - INFO -  * Debugger PIN: 997-799-537
+[2023-10-12 23:24:49,697] 14 root - INFO - We are testing logging
+[2023-10-12 23:24:49,698] 96 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2023 23:24:49] "GET / HTTP/1.1" 200 -
+[2023-10-12 23:24:50,697] 14 root - INFO - We are testing logging
+[2023-10-12 23:24:50,697] 96 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2023 23:24:50] "GET / HTTP/1.1" 200 -
+[2023-10-12 23:26:11,436] 96 werkzeug - INFO -  * Detected change in 'F:\\ETL\\Project\\ML_PROJECT_PIPELINE\\ML_pipeline\\Income_Prediction\\app.py', reloading

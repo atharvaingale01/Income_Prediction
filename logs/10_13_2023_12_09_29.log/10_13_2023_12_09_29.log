@@ -1,0 +1,4 @@
+[2023-10-13 12:09:30,158] 24 root - INFO - Data reading using pandas libraby
+[2023-10-13 12:09:30,326] 27 root - INFO - Data read sucessfull
+[2023-10-13 12:09:31,095] 33 root - INFO - Data spilt into train and test set
+[2023-10-13 12:09:31,464] 37 root - INFO - Data Ingestion complete
